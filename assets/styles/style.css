@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  h1 {
+    text-align: center;
+    color: #e741f6;
+  }
+  
+  .post {
+    border: 1px solid #ddd;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+    background-color: #fff;
+  }
+  
+  .post-title {
+    font-size: 1.2rem;
+    font-weight: bold;
+    color: #e741f6;
+  }
+  
+  .post-body {
+    font-size: 1rem;
+    color: #555;
+  }
